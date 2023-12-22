@@ -8,5 +8,4 @@ if __name__ == '__main__':
   data = pd.read_csv(file_path, delimiter=",")
   column_headers = list(data.columns.values)
   st.write(column_headers)
-  exit()
-  st.bar_chart(data=None, x=category, y=amount) #, color=None, width=0, height=0, use_container_width=True)
+  st.bar_chart(data=data, x="category", y="amount") #, color=None, width=0, height=0, use_container_width=True)
