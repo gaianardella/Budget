@@ -11,7 +11,7 @@ if __name__ == '__main__':
   # Keep only expenses
   data = data[~data["category"].isin(["Salary", "Deposits"])]
   # Convert negative expenses into positive values
-  data = data["amount"]
+  data = data["amount"].abs()
   st.write(data)
   exit()
   st.bar_chart(data=data, x="category", y="amount") #, color=None, width=0, height=0, use_container_width=True)
