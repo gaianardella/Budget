@@ -16,7 +16,8 @@ if __name__ == '__main__':
   st.bar_chart(data=data, x="category", y="amount") #, color=None, width=0, height=0, use_container_width=True)
 
   # Extract expense month
-  data['month'] = pd.DatetimeIndex(data['date']).month
+  data["month"] = pd.DatetimeIndex(data["date"]).month
+  data["month"]=data["month"].astype(int)
   st.write(type(data["month"]))
   
   # Year line chart
