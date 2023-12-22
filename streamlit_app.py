@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
   # Extract expense month
   data["month"] = pd.DatetimeIndex(data["date"]).month
-  grouped_df = data.groupby('month').sum()
+  grouped_df = data["amount"].groupby('month').sum()
   st.write(grouped_df)
   
   # Year line chart
