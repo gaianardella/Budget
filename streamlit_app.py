@@ -12,4 +12,13 @@ if __name__ == '__main__':
   data = data[~data["category"].isin(["Salary", "Deposits"])]
   # Convert negative expenses into positive values
   data["amount"] = data["amount"].abs()
+  # Month bar chart
   st.bar_chart(data=data, x="category", y="amount") #, color=None, width=0, height=0, use_container_width=True)
+
+  # Extract expense month
+  data['month'] = pd.DatetimeIndex(data['date']).month
+  st.write(data)
+  exit()
+
+  # Year line chart
+  st.line_chart(data=None, *, x=None, y=None, color=None, width=0, height=0, use_container_width=True)
