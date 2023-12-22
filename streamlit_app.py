@@ -17,7 +17,7 @@ if __name__ == '__main__':
 
   # Extract expense month
   data['month'] = pd.DatetimeIndex(data['date']).month
-  st.write(data["month"])
+  st.write(type(data["month"]))
   
   # Year line chart
   st.line_chart(data=data, x="month", y="amount")
