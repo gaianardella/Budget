@@ -21,4 +21,4 @@ if __name__ == '__main__':
   st.write(grouped_df)
   
   # Year line chart
-  st.line_chart(data=data, x="month", y="amount")
+  st.line_chart(data=grouped_df, x="month", y="amount")
