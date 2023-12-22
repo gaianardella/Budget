@@ -1,0 +1,116 @@
+﻿date,account,category,amount,currency,converted amount,currency,description
+26/10/2023,Cash,Transport,-1.7,EUR,-1.7,EUR,
+26/10/2023,Cash,Transport,-1.7,EUR,-1.7,EUR,
+26/10/2023,Cash,Transport,-4.5,EUR,-4.5,EUR,
+26/10/2023,Cash,Salary,1400,EUR,1400,EUR,
+26/10/2023,Cash,Salary,1550,EUR,1550,EUR,
+26/10/2023,Cash,Savings,100,EUR,100,EUR,
+26/10/2023,Cash,Eating out,-6.5,EUR,-6.5,EUR,
+26/10/2023,Cash,Clothes,-7,EUR,-7,EUR,
+26/10/2023,Cash,Clothes,-2,EUR,-2,EUR,
+29/10/2023,Cash,Eating out,-5,EUR,-5,EUR,
+29/10/2023,Cash,Eating out,-13.7,EUR,-13.7,EUR,
+29/10/2023,Cash,Clothes,-9.99,EUR,-9.99,EUR,
+29/10/2023,Cash,House,-11.55,EUR,-11.55,EUR,
+29/10/2023,Cash,Health,-45,EUR,-45,EUR,
+29/10/2023,Cash,Clothes,-16,EUR,-16,EUR,
+31/10/2023,Cash,Eating out,-17.1,EUR,-17.1,EUR,
+31/10/2023,Cash,Food,-46.21,EUR,-46.21,EUR,
+31/10/2023,Cash,Clothes,-21.7,EUR,-21.7,EUR,
+15/11/2023,Cash,Eating out,-14.29,EUR,-14.29,EUR,Pokè Glovo
+15/11/2023,Cash,Food,-13.4,EUR,-13.4,EUR,
+15/11/2023,Cash,Deposits,401.08,EUR,401.08,EUR,Budget mese
+17/11/2023,Cash,Health,-45,EUR,-45,EUR,Psicologo
+19/11/2023,Cash,Entertainment,-50,EUR,-50,EUR,Corso Ceramica
+19/11/2023,Cash,Entertainment,-1.99,EUR,-1.99,EUR,Disney+
+19/11/2023,Cash,Transport,-3.11,EUR,-3.11,EUR,Bit
+19/11/2023,Cash,Transport,-3.66,EUR,-3.66,EUR,Bit
+19/11/2023,Cash,Clothes,-23.93,EUR,-23.93,EUR,Maglietta ovs
+19/11/2023,Cash,Clothes,-26.95,EUR,-26.95,EUR,Pantaloni ovs
+19/11/2023,Cash,Eating out,-14,EUR,-14,EUR,Kebab palestinese
+19/11/2023,Cash,Eating out,-5.1,EUR,-5.1,EUR,Crepe + cappuccino con Rovena
+19/11/2023,Cash,Clothes,-5,EUR,-5,EUR,Spilla
+19/11/2023,Cash,Food,-10.56,EUR,-10.56,EUR,Spesa
+19/11/2023,Cash,Clothes,-4.5,EUR,-4.5,EUR,Copriorecchie Bijou Brigitte
+21/11/2023,Cash,Transport,-5.39,EUR,-5.39,EUR,Bit
+23/11/2023,Cash,Eating out,-7,EUR,-7,EUR,Pizza d’asporto
+23/11/2023,Cash,Eating out,-19,EUR,-19,EUR,Pranzo Ufficio
+23/11/2023,Cash,Eating out,-7,EUR,-7,EUR,Spremuta d’arancia ufficio
+24/11/2023,Cash,Clothes,-18.39,EUR,-18.39,EUR,Spilla Vinted
+24/11/2023,Cash,Health,-45,EUR,-45,EUR,Psicologo
+24/11/2023,Cash,Clothes,-9.99,EUR,-9.99,EUR,Tappetino Mouse
+26/11/2023,Cash,Clothes,-81.85,EUR,-81.85,EUR,Zaino
+26/11/2023,Cash,Food,-24.32,EUR,-24.32,EUR,Spesa
+26/11/2023,Cash,Entertainment,-13,EUR,-13,EUR,Discoteca
+26/11/2023,Cash,Eating out,-3,EUR,-3,EUR,Coca Cola
+26/11/2023,Cash,Transport,-3.2,EUR,-3.2,EUR,Bit
+26/11/2023,Cash,Transport,-4.1,EUR,-4.1,EUR,Bit
+26/11/2023,Cash,Transport,-4.86,EUR,-4.86,EUR,Bit
+26/11/2023,Cash,Transport,-4.99,EUR,-4.99,EUR,Abbonamento Ridermovi
+26/11/2023,Cash,Transport,-5,EUR,-5,EUR,Ricarica Ridermovi
+26/11/2023,Cash,Eating out,-14,EUR,-14,EUR,Pizzeria
+26/11/2023,Cash,Eating out,-7.2,EUR,-7.2,EUR,Pedrocchi
+30/11/2023,Cash,Eating out,-12.93,EUR,-12.93,EUR,Mcdonald
+30/11/2023,Cash,Eating out,-15.25,EUR,-15.25,EUR,Miscusi 02/12
+30/11/2023,Cash,Eating out,-3,EUR,-3,EUR,Caffè Pedrocchi 02/12
+30/11/2023,Cash,Eating out,-33.9,EUR,-33.9,EUR,Sushi 02/12
+30/11/2023,Cash,Clothes,-20,EUR,-20,EUR,Vetro Telefono 02/12
+30/11/2023,Cash,Transport,-2.67,EUR,-2.67,EUR,Bit 03/12
+30/11/2023,Cash,Eating out,-4.2,EUR,-4.2,EUR,Colazione Stazione Padova 03/12
+30/11/2023,Cash,Health,-1,EUR,-1,EUR,Bagno Venezia 03/12
+30/11/2023,Cash,Clothes,-95,EUR,-95,EUR,Collana Swarovski 03/12
+30/11/2023,Cash,Clothes,-4,EUR,-4,EUR,Spilla mercato 02/12
+30/11/2023,Cash,Entertainment,-20,EUR,-20,EUR,Caparra Capodanno 03/12
+30/11/2023,Cash,Transport,-4.7,EUR,-4.7,EUR,Treno Padova-Venezia 03/12
+30/11/2023,Cash,Transport,-4.7,EUR,-4.7,EUR,Treno Venezia-Padova 03/12
+30/11/2023,Cash,Clothes,-7.99,EUR,-7.99,EUR,Smalto bianco Claire 03/12
+30/11/2023,Cash,Eating out,-9,EUR,-9,EUR,Pranzo Venezia 03/12
+30/11/2023,Cash,Eating out,-10,EUR,-10,EUR,Cioccolata bar Dandolo Venezia 03/12
+30/11/2023,Cash,Food,-17.08,EUR,-17.08,EUR,Spesa Aldi 03/12
+30/11/2023,Cash,Clothes,-36.29,EUR,-36.29,EUR,Collana Swarovski 06/12
+30/11/2023,Cash,Food,-38.95,EUR,-38.95,EUR,Spesa Aliper 06/12
+30/11/2023,Cash,Eating out,-5,EUR,-5,EUR,Pizza Marinara 06/12
+30/11/2023,Cash,Health,-45,EUR,-45,EUR,Psicologo 07/12
+30/11/2023,Cash,Eating out,-12.95,EUR,-12.95,EUR,Udine 08/12
+30/11/2023,Cash,Clothes,-14,EUR,-14,EUR,Calze Scout 09/12
+30/11/2023,Cash,Clothes,-6,EUR,-6,EUR,Calze Calzedonia 09/12
+30/11/2023,Cash,Clothes,-85.05,EUR,-85.05,EUR,Benetton 09/12
+30/11/2023,Cash,Food,-2.5,EUR,-2.5,EUR,Spugna Tiger 09/12
+30/11/2023,Cash,Eating out,-6.5,EUR,-6.5,EUR,Bar 09/12
+30/11/2023,Cash,Entertainment,-10.99,EUR,-10.99,EUR,Spotify
+30/11/2023,Cash,Clothes,-5.79,EUR,-5.79,EUR,Orecchini
+10/12/2023,Cash,Clothes,-80.94,EUR,-80.94,EUR,Dispositivo schiena
+10/12/2023,Cash,Deposits,400,EUR,400,EUR,
+12/12/2023,Cash,Food,-8.43,EUR,-8.43,EUR,Spesa Aldi
+12/12/2023,Cash,Eating out,-6.2,EUR,-6.2,EUR,Pizza d’asporto
+15/12/2023,Cash,Entertainment,-32.01,EUR,-32.01,EUR,Spettacolo Roberta Bruzzone
+15/12/2023,Cash,Eating out,-24.9,EUR,-24.9,EUR,Sushi
+17/12/2023,Cash,Clothes,-28.46,EUR,-28.46,EUR,Temu
+17/12/2023,Cash,Clothes,-29.84,EUR,-29.84,EUR,Borsa Cartier Vinted
+17/12/2023,Cash,Transport,-1.7,EUR,-1.7,EUR,Tram
+17/12/2023,Cash,Clothes,-10,EUR,-10,EUR,Anello mercato
+17/12/2023,Cash,Eating out,-3,EUR,-3,EUR,Pedrocchi
+17/12/2023,Cash,Eating out,-6,EUR,-6,EUR,Pizza e Rosti in Galleria
+17/12/2023,Cash,Clothes,-35,EUR,-35,EUR,Giacca mercato
+17/12/2023,Cash,Clothes,-15,EUR,-15,EUR,Giacca mercato
+17/12/2023,Cash,Deposits,25,EUR,25,EUR,Soldi Papà
+17/12/2023,Cash,Clothes,-60.1,EUR,-60.1,EUR,Pantaloni Benetton
+17/12/2023,Cash,Clothes,-5,EUR,-5,EUR,Gift Card Benetton
+17/12/2023,Cash,Gifts,-11.35,EUR,-11.35,EUR,Regalo Elisa
+18/12/2023,Cash,Food,-4,EUR,-4,EUR,Spremuta d’arancia ufficio
+18/12/2023,Cash,Food,-5.9,EUR,-5.9,EUR,Pranzo Ufficio
+18/12/2023,Cash,Food,-14.67,EUR,-14.67,EUR,Spesa Aldi
+19/12/2023,Cash,Transport,-22.9,EUR,-22.9,EUR,Treno Padova-Novara
+19/12/2023,Cash,Eating out,-10.8,EUR,-10.8,EUR,Pranzo Natoo
+19/12/2023,Cash,Eating out,-2.6,EUR,-2.6,EUR,Burger King
+20/12/2023,Cash,Transport,-22.2,EUR,-22.2,EUR,Treno Novara-Padova
+20/12/2023,Cash,Eating out,-1.7,EUR,-1.7,EUR,Caffè
+20/12/2023,Cash,Eating out,-6,EUR,-6,EUR,Pranzo 12oz Verona
+20/12/2023,Cash,Entertainment,-5.5,EUR,-5.5,EUR,Aperitivo
+20/12/2023,Cash,Transport,-5,EUR,-5,EUR,Ridermovi
+21/12/2023,Cash,Health,-45,EUR,-45,EUR,Psicologo
+21/12/2023,Cash,Food,-14.2,EUR,-14.2,EUR,Pranzo Ufficio
+22/12/2023,Cash,Transport,-1.7,EUR,-1.7,EUR,Bus
+22/12/2023,Cash,Eating out,-2.5,EUR,-2.5,EUR,Bar
+22/12/2023,Cash,Health,-1,EUR,-1,EUR,Bagno Milano
+22/12/2023,Cash,Eating out,-3,EUR,-3,EUR,Bar
