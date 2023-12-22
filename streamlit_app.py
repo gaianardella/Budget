@@ -7,6 +7,7 @@ if __name__ == '__main__':
   file_path="monefy-2023-12-22_03-09-21.csv"
   data = pd.read_csv(file_path, delimiter=",")
   column_headers = list(data.columns.values)
+  st.write(column_headers)
   # Keep only expenses
   data = data[~data["category"].isin(["Salary", "Deposits"])]
   exit()
