@@ -21,4 +21,4 @@ if __name__ == '__main__':
   exit()
 
   # Year line chart
-  st.line_chart(data=None, *, x=None, y=None, color=None, width=0, height=0, use_container_width=True)
+  # st.line_chart(data=None, *, x=None, y=None, color=None, width=0, height=0, use_container_width=True)
