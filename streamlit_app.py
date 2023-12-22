@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-import matplotlib.pyplot as plt
 st.set_page_config(page_title="A Cloud Closet", page_icon=":dress:", layout="wide")
 
 if __name__ == '__main__':
