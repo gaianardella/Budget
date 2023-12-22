@@ -15,11 +15,10 @@ if __name__ == '__main__':
   # Month bar chart
   st.bar_chart(data=data, x="category", y="amount") #, color=None, width=0, height=0, use_container_width=True)
 
-  # Extract expense month
+  # Extract expense month and monthly amount sum
   data["month"] = pd.DatetimeIndex(data["date"]).month
-  grouped_df = data[["amount", "month"]].groupby('month').sum()
-  grouped_df = grouped_df.reset_index()
-  st.write(grouped_df)
+  line_chart_df = data[["amount", "month"]].groupby('month').sum()
+  line_chart_df = line_chart_df.reset_index()
   
   # Year line chart
-  st.line_chart(data=data, x="month", y="amount")
+  st.line_chart(data=line_chart_df, x="month", y="amount")
